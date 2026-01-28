@@ -1,7 +1,7 @@
-**Bank Marketing Campaign
-***Overview
-The goal of this project is to compare the performance of machine learning classifiers—K-Nearest Neighbors (KNN), Logistic Regression, Decision Trees, and Support Vector Machines (SVM)—to predict if a client will subscribe to a bank term deposit.
-The analysis is based on a dataset from a Portuguese banking institution involving 17 marketing campaigns conducted between May 2008 and November 2010.
+#Bank Marketing Campaign
+##Overview
+*The goal of this project is to compare the performance of machine learning classifiers—K-Nearest Neighbors (KNN), Logistic Regression, Decision Trees, and Support Vector Machines (SVM)—to predict if a client will subscribe to a bank term deposit.
+*The analysis is based on a dataset from a Portuguese banking institution involving 17 marketing campaigns conducted between May 2008 and November 2010.
 
 Business Objective
 The primary business objective is to develop a predictive model that identifies potential customers most likely to subscribe to a bank term deposit. 
