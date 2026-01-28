@@ -21,9 +21,9 @@
 
 ## Models Evaluated
 * **Logistic Regression**: The tuned model achieved the highest **Precision score of 0.669** and a **Test Accuracy of 0.901**, making it the ideal model for identifying potential subscribers.
-* **Decision Tree**: A close contender with a **Test Accuracy of 0.904** and **Precision of 0.612**, benefiting from a very low training time.
+* **Decision Tree**: A close contender with a **Test Accuracy of 0.904** and **Precision of 0.612**, with a very low training time.
 * **Comparison**: Considering all parameters, **Tuned Logistic Regression** has a slight edge over the tuned decision tree model.
 
 ## Summary of Results
-* **Performance**: While the models achieved high overall accuracy, the **F1 score** for the minority class remained very low across initial tests. 
+* **Performance**: While the models achieved high overall accuracy, the F1 score for the minority class remained very low across initial tests. 
 * **Next Steps**: Further data analysis is needed to address the class imbalances.
