@@ -2,16 +2,16 @@
 
 ## Overview
 * **Goal**: To compare the performance of machine learning classifiers—**K-Nearest Neighbors (KNN)**, **Logistic Regression**, **Decision Trees**, and **Support Vector Machines (SVM)**—to predict if a client will subscribe to a bank term deposit.
-* **Dataset Context**: The analysis is based on a dataset from a Portuguese banking institution involving **17 marketing campaigns** conducted between May 2008 and November 2010.
+* The analysis is based on a dataset from a Portuguese banking institution involving **17 marketing campaigns** conducted between May 2008 and November 2010.
 
 ## Business Objective
 * **Primary Goal**: To develop a predictive model that identifies potential customers most likely to subscribe to a bank term deposit.
-* **Efficiency**: By accurately targeting these individuals, the bank can improve the efficiency of its marketing campaigns and increase subscription rates.
+* By accurately targeting these individuals, the bank can improve the efficiency of its marketing campaigns and increase subscription rates.
 
 ## Dataset Information
 * **Total Records**: 41,188.
 * **Features**: 21 variables (Age, job, marital status, education, contact information, consumer price index etc)
-* **Target Variable (y)**: 'yes/1' if the client subscribed to a term deposit, 'no/0' if they did not.
+* **Target Variable**: 'yes/1' if the client subscribed to a term deposit, 'no/0' if they did not.
 
 ## Exploratory Data Analysis (EDA)
 * The dataset is heavily skewed towards "no" responses, making it difficult for models to identify the minority "yes" class (subscribers).
